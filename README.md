@@ -2,7 +2,7 @@
 Mona Doane
 
 0-Diabetes Predictor Notebook
-This file describes the scope of the project in Jupyter Notebook
+This file describes the scope of the project in Jupyter Notebook and provides instructions to run the project. 
 
 1-Methodology
 This file contains the step by step methodology used to clean, explore and analyze the data.  Machine learning models are evaluated against the data.  The best fit machine learning model is selected.
